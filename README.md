@@ -28,10 +28,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 <a href="https://greysanatomy.fandom.com/wiki/Grey%27s_Anatomy_Universe_Wiki">
     <img src="./src/images/GreysAnatomyLogo.jpg" alt="Logo" width="100%">
   </a>
