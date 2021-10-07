@@ -87,12 +87,21 @@
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+<<<<<<< HEAD
+
+### Built With
+
+- []()
+- []()
+- # []()
 
 ### Built With
 
 - []()
 - []()
 - []()
+
+> > > > > > > 07f018ea21ac6e00cccaa27c5c450e8be9574476
 
 <!-- GETTING STARTED -->
 
@@ -119,6 +128,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
+   # <<<<<<< HEAD
+
+> > > > > > > 07f018ea21ac6e00cccaa27c5c450e8be9574476
 
 <!-- USAGE EXAMPLES -->
 
@@ -129,6 +141,14 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
+
+# <<<<<<< HEAD
+
+## Roadmap
+
+See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+
+> > > > > > > 07f018ea21ac6e00cccaa27c5c450e8be9574476
 
 ## Roadmap
 
@@ -154,13 +174,32 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 
+<<<<<<< HEAD
+
 ## Contact
+
+=======
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+
+> > > > > > > 07f018ea21ac6e00cccaa27c5c450e8be9574476
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <!-- ACKNOWLEDGEMENTS -->
+
+# <<<<<<< HEAD
+
+## Acknowledgements
+
+- []()
+- []()
+- []()
+
+> > > > > > > 07f018ea21ac6e00cccaa27c5c450e8be9574476
 
 ## Acknowledgements
 
@@ -171,15 +210,20 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+<<<<<<< HEAD
+
+=======
+
+> > > > > > > 07f018ea21ac6e00cccaa27c5c450e8be9574476
+> > > > > > > [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+> > > > > > > [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+> > > > > > > [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+> > > > > > > [forks-url]: https://github.com/github_username/repo_name/network/members
+> > > > > > > [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+> > > > > > > [stars-url]: https://github.com/github_username/repo_name/stargazers
+> > > > > > > [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+> > > > > > > [issues-url]: https://github.com/github_username/repo_name/issues
+> > > > > > > [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+> > > > > > > [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+> > > > > > > [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+> > > > > > > [linkedin-url]: https://linkedin.com/in/github_username
