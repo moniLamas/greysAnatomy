@@ -33,7 +33,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 <a href="https://greysanatomy.fandom.com/wiki/Grey%27s_Anatomy_Universe_Wiki">
-    <img src="images/GreysAnatomyLogo.jpg" alt="Logo" width="100%">
+    <img src="./images/GreysAnatomyLogo.jpg" alt="Logo" width="100%">
   </a>
 
   <h3 align="center">project_title</h3>
